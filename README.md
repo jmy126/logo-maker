@@ -43,4 +43,4 @@ http://localhost:5173/
 
 If you have any question, please follow me on X:
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DJ_wilderness)](https://x.com/DJ_wilderness)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/daxmeng)](https://x.com/daxmeng)
