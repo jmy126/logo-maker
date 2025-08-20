@@ -21,7 +21,7 @@
 1. Clone this repository
 
 ```bash
-git clone https://github.com/reamd/logo-maker.git
+git clone https://github.com/daxmeng/logo-maker.git
 cd logo-maker
 ```
 
