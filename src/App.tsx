@@ -350,10 +350,8 @@ const App: React.FC = () => {
           </Form>
 
           <div className="pt-8 text-gray-500">
-            👏Take a look at the open source project <a className="text-blue-600" href="https://github.com/reamd/remove-bg/blob/main/README.md" target="_blank">
-              <img className="w-4 inline-block" src={github} /> remove-bg</a>.
-            It uses <a className="text-blue-600" href="https://github.com/reamd/logo-maker" target="_blank">
-              <img className="w-4 inline-block" src={github} /> Logo Maker</a>.</div>
+            🚀 <span className="font-bold">Transform your brand with a stunning logo!</span> Discover <a className="text-blue-600 font-bold" href="https://go.fiverr.com/visit/?bta=1059149&brand=logomaker" target="_blank">
+              Fiverr Logo Maker</a> - access to 10,000+ professional designers ready to create your unique logo in hours! Plus, try our free <a className="text-blue-600 font-bold" href="https://remove-bg.28apk.com/" target="_blank">Remove BG</a> tool for instant background removal - no signup required!</div>
         </div>
       </div>
     </div>
